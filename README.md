@@ -16,19 +16,19 @@ On-Prem
 
 Fortigate VM and Windows VM are on a single LAN segment
 
-###Deploying the infrastructure using Terraform:
+### Deploying the infrastructure using Terraform:
 
 1. Terraform init 
-'''
+```
 $ terraform init
-'''
+```
 2. Terraform plan
-'''
+```
 $ terraform plan
-'''
+```
 3. Terraform apply
-'''
+```
 $ terraform apply
-'''
+```
 
 
