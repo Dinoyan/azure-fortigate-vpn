@@ -14,8 +14,8 @@ On-Prem
 |     On-Prem      |       IP      |
 | -------------    | ------------- |
 |   Fortigate WAN  |     x.x.x.x   |
-|   Fortigate Local| 10.10.10.1 /24|
-|   Windows VM     | 10.10.10.2 /24|
+|   Fortigate Local| 10.10.0.1 /24|
+|   Windows VM     | 10.10.0.2 /24|
 
 Fortigate VM and Windows VM are on a single LAN segment
 
