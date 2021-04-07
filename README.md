@@ -1,4 +1,7 @@
-# azure-fortigate-vpn
+## azure-fortigate-vpn
+
+#### Topology
+![alt text](https://github.com/Dinoyan/azure-terraform/blob/main/Design.png?raw=true)
 
 IP Table
 
